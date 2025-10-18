@@ -18,7 +18,7 @@ Toast message:
   or more ...
 ## list
 -  （主要）详见 [`list.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)
--   [`other.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/other.txt)
+-   [`other.txt`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/other.txt)（包含一些非常规的屏蔽内容、曾某段时间屏蔽现已解除关键词）
 
 -  ~~（补充，暂停维护）[`list.md`](https://github.com/Coolapk-Fan/coolapk-blacklist-keywords/blob/master/list.txt)~~
 ## tips
